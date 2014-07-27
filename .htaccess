@@ -1,0 +1,16 @@
+# To set your custom php.ini, add the following line to this file:
+# suphp_configpath /home/yourusername/path/to/php.ini
+ErrorDocument 404 /404.html
+Redirect 301 /contribute.html /donate.html
+Redirect 301 /programindex.html /index.html
+Redirect 301 /aboutus.html /about-us.html
+Redirect 301 /contactus.html /contact-us.html
+Redirect 301 /new/index.html /index.html
+Redirect 301 /new/ /index.html
+Redirect /care2jean.htm http://companionarts.org/care-for-the-journey-1-landing.html
+Redirect /care2christiane.htm http://companionarts.org/care-for-the-journey-1-landing.html
+Redirect /care2ira.htm http://companionarts.org/care-for-the-journey-1-landing.html
+Redirect /care2rachel.htm http://companionarts.org/care-for-the-journey-1-landing.html
+Redirect /care2angeles.htm http://companionarts.org/care-for-the-journey-1-landing.html
+Redirect /care2christina.htm http://companionarts.org/care-for-the-journey-1-landing.html
+Redirect /care2tom.htm http://companionarts.org/care-for-the-journey-1-landing.html
